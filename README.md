@@ -5,3 +5,6 @@ https://towardsdatascience.com/a-performant-recommender-system-without-cold-star
 
 Bayesian Knowledge
 https://medium.com/geekculture/how-to-build-a-bayesian-knowledge-graph-dee1cc821d35
+
+Bayesian Book:
+https://dataorigami.net/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
