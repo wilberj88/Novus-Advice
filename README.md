@@ -11,3 +11,6 @@ https://dataorigami.net/Probabilistic-Programming-and-Bayesian-Methods-for-Hacke
 
 Conditional Probabilities:
 https://towardsdatascience.com/unlock-the-secret-to-effortlessly-calculating-conditional-probabilities-from-any-dataframe-a232ca71e33c
+
+Dynamic Pricing System:
+https://blog.devgenius.io/how-to-build-a-dynamic-pricing-system-using-machine-learning-in-python-ad6d4e4292f8
