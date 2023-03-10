@@ -15,7 +15,13 @@ https://towardsdatascience.com/unlock-the-secret-to-effortlessly-calculating-con
 Dynamic Pricing System:
 https://blog.devgenius.io/how-to-build-a-dynamic-pricing-system-using-machine-learning-in-python-ad6d4e4292f8
 
-
+Text to Image:
+1) Trends to promts (Novus Trends to Novus Advice)
+2) Promts to Images (Dalle-2: https://openai.com/product/dall-e-2) 
+3) Images to Flyers (Dalle to Novus Advice)
+4) Flyers to Experiments (Novus Advice)
+5) Experiments to Results (Novus Advice to Novus Mando)
+6) Results to Learnings (Novus Mando to Novus Advice)
 
 
 ChatGPT: prompt="What are some good research questions related to NLP transformer models?"
