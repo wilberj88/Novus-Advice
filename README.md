@@ -16,13 +16,19 @@ Dynamic Pricing System:
 https://blog.devgenius.io/how-to-build-a-dynamic-pricing-system-using-machine-learning-in-python-ad6d4e4292f8
 
 Text to Image:
-1) Trends to promts (Novus Trends to Novus Advice)
+1) Trends to promts (Novus Trends to Novus Advice -ChatGPT-)
 2) Promts to Images 
-Dalle-2: https://openai.com/product/dall-e-2 15USD:>115 tokens de imagágenes
+Dalle-2: https://openai.com/product/dall-e-2 15USD:>115 tokens de imagágenes. Promt Tunning: Luces, detalles, sombras y perspectivas. Estructura recomendada: Inicio simple y luego añadir detalles: 1What,2Subject/scene, 3PerspectiveAndQuality, 4DefineMood
+Estructura alternativa: subject+artist+era+mediumpalette+vibe
+Luz: Desde muy iluminado a muy opacado: Gloomy-Glowing
+Cantidades + Tamaños+ Brillos + Anchura + Área + Resolución + Skin Tone + Skin Texture + Emotions-Mood ajustables también
+
+Dalle-2: https://openai.com/product/dall-e-2 15USD:>115 tokens de imagágenes. Promt Tunning: Luces, detalles, sombras y perspectivas. Estructura recomendada: Inicio simple y luego añadir detalles: 1What,2Subject/scene, 3PerspectiveAndQuality, 4DefineMood
+
 Midjourney: 11 trabajadores, funciona en Discord. Planes desde 10 a 60 USD.
 Stable Difussion (Open Source): se encuentra en Hugging Face
-4) Images to Flyers (Dalle2 to Novus Advice)
-5) Flyers to Experiments (Novus Advice)
+4) Images to Flyers (Dalle2 to Novus Advice -ChatGPT to WordPress-)
+5) Flyers to Experiments (Novus Advice - Novus Atento - Novus Mando)
 6) Experiments to Results (Novus Advice to Novus Mando)
 7) Results to Learnings (Novus Mando to Novus Advice)
 
