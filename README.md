@@ -17,11 +17,14 @@ https://blog.devgenius.io/how-to-build-a-dynamic-pricing-system-using-machine-le
 
 Text to Image:
 1) Trends to promts (Novus Trends to Novus Advice)
-2) Promts to Images (Dalle-2: https://openai.com/product/dall-e-2) 
-3) Images to Flyers (Dalle to Novus Advice)
-4) Flyers to Experiments (Novus Advice)
-5) Experiments to Results (Novus Advice to Novus Mando)
-6) Results to Learnings (Novus Mando to Novus Advice)
+2) Promts to Images 
+Dalle-2: https://openai.com/product/dall-e-2 15USD:>115 tokens de imagágenes
+Midjourney: 11 trabajadores, funciona en Discord. Planes desde 10 a 60 USD.
+Stable Difussion (Open Source): se encuentra en Hugging Face
+4) Images to Flyers (Dalle2 to Novus Advice)
+5) Flyers to Experiments (Novus Advice)
+6) Experiments to Results (Novus Advice to Novus Mando)
+7) Results to Learnings (Novus Mando to Novus Advice)
 
 
 ChatGPT: prompt="What are some good research questions related to NLP transformer models?"
