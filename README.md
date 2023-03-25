@@ -17,6 +17,8 @@ https://blog.devgenius.io/how-to-build-a-dynamic-pricing-system-using-machine-le
 
 Tutorial:
 https://medium.com/@dhirajkumarsahu.999/build-your-first-recommender-system-using-reinforcement-learning-4962db6f6147
+A Complete Tutorial on Off-Policy Evaluation for Recommender Systems | by Adrien Biarnes | Mar, 2023 | Towards Data Science
+https://towardsdatascience.com/a-complete-tutorial-on-off-policy-evaluation-for-recommender-systems-e92085018afe
 
 Text to Image:
 1) Trends to promts (Novus Trends to Novus Advice -ChatGPT-)
