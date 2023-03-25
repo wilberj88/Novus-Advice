@@ -15,6 +15,9 @@ https://towardsdatascience.com/unlock-the-secret-to-effortlessly-calculating-con
 Dynamic Pricing System:
 https://blog.devgenius.io/how-to-build-a-dynamic-pricing-system-using-machine-learning-in-python-ad6d4e4292f8
 
+Tutorial:
+https://medium.com/@dhirajkumarsahu.999/build-your-first-recommender-system-using-reinforcement-learning-4962db6f6147
+
 Text to Image:
 1) Trends to promts (Novus Trends to Novus Advice -ChatGPT-)
 2) Promts to Images 
