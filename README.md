@@ -6,6 +6,9 @@ https://towardsdatascience.com/a-performant-recommender-system-without-cold-star
 Bayesian Knowledge
 https://medium.com/geekculture/how-to-build-a-bayesian-knowledge-graph-dee1cc821d35
 
+Bayesian AB Testing. Using and choosing priors in randomized… | by Matteo Courthoud | Towards Data Science
+https://towardsdatascience.com/bayesian-ab-testing-ed45cc8c964d
+
 Bayesian Book:
 https://dataorigami.net/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
 
