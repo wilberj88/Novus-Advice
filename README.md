@@ -3,6 +3,9 @@
 RC without cold start:
 https://towardsdatascience.com/a-performant-recommender-system-without-cold-start-problem-69bf2f0f0b9b
 
+Scikit Learn Examples:
+https://levelup.gitconnected.com/exploring-the-scikit-learn-library-10-practical-examples-of-machine-learning-algorithms-with-62fe002d2c7c
+
 Bayesian Knowledge
 https://medium.com/geekculture/how-to-build-a-bayesian-knowledge-graph-dee1cc821d35
 
