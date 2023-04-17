@@ -9,6 +9,9 @@ https://levelup.gitconnected.com/exploring-the-scikit-learn-library-10-practical
 Bayesian Knowledge
 https://medium.com/geekculture/how-to-build-a-bayesian-knowledge-graph-dee1cc821d35
 
+Ubicación óptima example:
+https://cmu-ids-spring-2023-assignment-3-viz-wizar-streamlit-app-7gtz01.streamlit.app/#qn-give-me-the-names-and-working-hours-of-restaurants-in-philadelphia-located-at-postal-code-19107-with-average-rating-greater-than-3-2
+
 Bayesian AB Testing. Using and choosing priors in randomized… | by Matteo Courthoud | Towards Data Science
 https://towardsdatascience.com/bayesian-ab-testing-ed45cc8c964d
 
