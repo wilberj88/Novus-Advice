@@ -3,6 +3,10 @@
 RC without cold start:
 https://towardsdatascience.com/a-performant-recommender-system-without-cold-start-problem-69bf2f0f0b9b
 
+How to Build Popularity-Based Recommenders with Polars | by Dr. Robert Kübler | Apr, 2023 | Towards Data Science
+https://towardsdatascience.com/how-to-build-popularity-based-recommenders-with-polars-cc7920ad3f68
+
+
 Scikit Learn Examples:
 https://levelup.gitconnected.com/exploring-the-scikit-learn-library-10-practical-examples-of-machine-learning-algorithms-with-62fe002d2c7c
 
