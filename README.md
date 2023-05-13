@@ -6,6 +6,8 @@ https://towardsdatascience.com/a-performant-recommender-system-without-cold-star
 How to Build Popularity-Based Recommenders with Polars | by Dr. Robert Kübler | Apr, 2023 | Towards Data Science
 https://towardsdatascience.com/how-to-build-popularity-based-recommenders-with-polars-cc7920ad3f68
 
+How to Evaluate RS:
+https://medium.com/grabngoinfo/the-ultimate-guide-to-evaluating-your-recommendation-system-d4fc8d4423cc
 
 Scikit Learn Examples:
 https://levelup.gitconnected.com/exploring-the-scikit-learn-library-10-practical-examples-of-machine-learning-algorithms-with-62fe002d2c7c
