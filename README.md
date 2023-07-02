@@ -21,6 +21,9 @@ https://cmu-ids-spring-2023-assignment-3-viz-wizar-streamlit-app-7gtz01.streamli
 Bayesian AB Testing. Using and choosing priors in randomized… | by Matteo Courthoud | Towards Data Science
 https://towardsdatascience.com/bayesian-ab-testing-ed45cc8c964d
 
+Flight Recommendation Application:
+https://levelup.gitconnected.com/monetize-your-chatbot-by-using-openais-function-calling-and-langchain-157d0d97cd79
+
 Bayesian Book:
 https://dataorigami.net/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
 
