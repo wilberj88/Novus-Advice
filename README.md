@@ -12,6 +12,8 @@ https://medium.com/grabngoinfo/the-ultimate-guide-to-evaluating-your-recommendat
 Scikit Learn Examples:
 https://levelup.gitconnected.com/exploring-the-scikit-learn-library-10-practical-examples-of-machine-learning-algorithms-with-62fe002d2c7c
 
+Node2Vec: https://medium.com/memgraph/recommendation-system-using-online-node2vec-with-memgraph-mage-6eeafef0d86e
+
 Bayesian Knowledge
 https://medium.com/geekculture/how-to-build-a-bayesian-knowledge-graph-dee1cc821d35
 
