@@ -39,6 +39,7 @@ Tutorial:
 https://medium.com/@dhirajkumarsahu.999/build-your-first-recommender-system-using-reinforcement-learning-4962db6f6147
 A Complete Tutorial on Off-Policy Evaluation for Recommender Systems | by Adrien Biarnes | Mar, 2023 | Towards Data Science
 https://towardsdatascience.com/a-complete-tutorial-on-off-policy-evaluation-for-recommender-systems-e92085018afe
+https://medium.com/grabngoinfo/hybrid-recommendation-system-using-user-based-and-item-based-collaborative-filtering-c5e8283cd2dc
 Monitoring RS:
 https://medium.com/@pratikmandlecha.98/visualizing-machine-learning-systems-in-production-with-streamlit-altair-c2fa155d68a0
 
