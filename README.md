@@ -1,5 +1,8 @@
 # Novus-Advice
 
+RC in minutes:
+https://medium.com/@dhirajkumarsahu.999/build-a-basic-recommender-system-in-minutes-3f14d3646199
+
 RC without cold start:
 https://towardsdatascience.com/a-performant-recommender-system-without-cold-start-problem-69bf2f0f0b9b
 
