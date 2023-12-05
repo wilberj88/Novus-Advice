@@ -3,6 +3,7 @@
 RC in minutes:
 https://medium.com/@dhirajkumarsahu.999/build-a-basic-recommender-system-in-minutes-3f14d3646199
 https://github.com/topoteretes/PromethAI-Backend
+https://medium.com/data-science-in-your-pocket/recommendation-systems-using-langchain-and-llms-with-codes-d3c4c4e66732
 
 RC without cold start:
 https://towardsdatascience.com/a-performant-recommender-system-without-cold-start-problem-69bf2f0f0b9b
