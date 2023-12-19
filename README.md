@@ -32,6 +32,9 @@ https://towardsdatascience.com/a-beginners-guide-to-understanding-a-b-test-perfo
 Flight Recommendation Application:
 https://levelup.gitconnected.com/monetize-your-chatbot-by-using-openais-function-calling-and-langchain-157d0d97cd79
 
+Django & Prophet:
+https://towardsdatascience.com/supply-planning-using-linear-programming-with-python-bff2401bf270
+
 Bayesian Book:
 https://dataorigami.net/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
 
